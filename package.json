@@ -1,0 +1,27 @@
+{
+  "name": "galeere-usersvc",
+  "version": "1.0.0",
+  "description": "user service module for galeere-core",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRandomGuysSF/galeere-usersvc.git"
+  },
+  "keywords": [
+    "blog",
+    "galeere-core",
+    "galeere"
+  ],
+  "author": "The Random Guys Software Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRandomGuysSF/galeere-usersvc/issues"
+  },
+  "homepage": "https://github.com/TheRandomGuysSF/galeere-usersvc#readme"
+}
