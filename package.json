@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/TheRandomGuysSF/galeere-usersvc/issues"
   },
-  "homepage": "https://github.com/TheRandomGuysSF/galeere-usersvc#readme"
+  "homepage": "https://github.com/TheRandomGuysSF/galeere-usersvc#readme",
+  "dependencies": {
+    "mongoose": "^5.0.14"
+  }
 }

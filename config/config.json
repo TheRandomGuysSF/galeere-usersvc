@@ -1,0 +1,6 @@
+{
+    "Database_Mongo_URI": "mongodb://localhost/usersvc",
+    "Database_Mongo_Options": {
+        
+    }
+}
