@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/TheRandomGuysSF/galeere-usersvc#readme",
   "dependencies": {
-    "mongoose": "^5.0.14"
+    "mongoose": "^5.7.5"
   }
 }
